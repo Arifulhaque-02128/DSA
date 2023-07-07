@@ -1,0 +1,5 @@
+size : 2
+is empty: 0
+top : 5
+size : 1
+is empty: 0
