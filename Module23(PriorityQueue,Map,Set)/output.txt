@@ -1,0 +1,12 @@
+
+Sorted values : 
+2
+3
+5
+10
+20
+100
+
+Searching : 
+50 is not present
+100 is present
